@@ -4,10 +4,10 @@ A realtime client website, which has various modules ranging as follow,
 - Adding Appointments 
 - Dynamically adding Newsfeed
 etc.
-## Tool used
+### Tool used
 * ATOM editor
 * XAMPP
-## Getting Started
-Load the initially commited folder **bmc** in a `Web server environment` such as **WAMP,XAMPP,LAMP** and test out various features of the website, **Editing** can be performed by opening the respective `.php/.html/.css` file in the **text editor**
-## License
+### Getting Started
+Place the initially commited files in a customly created folder ___"xyz"___ and load them in a `Web server environment` such as [WAMP](http://www.wampserver.com/en/), [XAMPP](https://www.apachefriends.org/index.html), [LAMP](https://bitnami.com/stack/lamp/installer) and test out various features of the website, **Editing** can be performed by opening the respective `.php/.html/.css` file in the **text editor**
+### License
 Look at the `license file` in this repo
